@@ -34,7 +34,7 @@ function devolverString(str) {
   }
   
   function divide(x, y) {
-    // Divide "x" entre "y" y devuelve el valor
+    // Divide "x" entre "y" y devuelve el valor 
     // Tu código:
     var divide = x / y;
     return divide
